@@ -1,0 +1,8 @@
+{
+    "scm.providerCountBadge": "visible",
+    "scm.alwaysShowActions": true,
+    "scm.diffDecorationsIgnoreTrimWhitespace": "false",
+    "gitlens.codeLens.includeSingleLineSymbols": true,
+    "gitHistory.alwaysPromptRepositoryPicker": false,
+    "gitHistory.includeRemoteBranches": false
+}
